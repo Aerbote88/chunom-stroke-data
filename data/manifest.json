@@ -1,0 +1,294 @@
+{
+  "count": 48,
+  "generated": "2026-04-19T23:47:11.777Z",
+  "entries": [
+    {
+      "character": "㛪",
+      "codepoint": "U+36EA",
+      "strokes": 11,
+      "block": "bmp"
+    },
+    {
+      "character": "㧑",
+      "codepoint": "U+39D1",
+      "strokes": 7,
+      "block": "bmp"
+    },
+    {
+      "character": "䀡",
+      "codepoint": "U+4021",
+      "strokes": 10,
+      "block": "bmp"
+    },
+    {
+      "character": "兠",
+      "codepoint": "U+5160",
+      "strokes": 12,
+      "block": "bmp"
+    },
+    {
+      "character": "堛",
+      "codepoint": "U+581B",
+      "strokes": 12,
+      "block": "bmp"
+    },
+    {
+      "character": "姉",
+      "codepoint": "U+59C9",
+      "strokes": 8,
+      "block": "bmp"
+    },
+    {
+      "character": "嫊",
+      "codepoint": "U+5ACA",
+      "strokes": 13,
+      "block": "bmp"
+    },
+    {
+      "character": "恄",
+      "codepoint": "U+6044",
+      "strokes": 9,
+      "block": "bmp"
+    },
+    {
+      "character": "悁",
+      "codepoint": "U+6081",
+      "strokes": 10,
+      "block": "bmp"
+    },
+    {
+      "character": "撝",
+      "codepoint": "U+649D",
+      "strokes": 15,
+      "block": "bmp"
+    },
+    {
+      "character": "橷",
+      "codepoint": "U+6A77",
+      "strokes": 16,
+      "block": "bmp"
+    },
+    {
+      "character": "爲",
+      "codepoint": "U+7232",
+      "strokes": 12,
+      "block": "bmp"
+    },
+    {
+      "character": "竜",
+      "codepoint": "U+7ADC",
+      "strokes": 10,
+      "block": "bmp"
+    },
+    {
+      "character": "羣",
+      "codepoint": "U+7FA3",
+      "strokes": 13,
+      "block": "bmp"
+    },
+    {
+      "character": "鐄",
+      "codepoint": "U+9404",
+      "strokes": 19,
+      "block": "bmp"
+    },
+    {
+      "character": "𠉝",
+      "codepoint": "U+2025D",
+      "strokes": 9,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𠊚",
+      "codepoint": "U+2029A",
+      "strokes": 10,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𠑬",
+      "codepoint": "U+2046C",
+      "strokes": 22,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𠓀",
+      "codepoint": "U+204C0",
+      "strokes": 17,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𡎝",
+      "codepoint": "U+2139D",
+      "strokes": 12,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𡗶",
+      "codepoint": "U+215F6",
+      "strokes": 7,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𡥵",
+      "codepoint": "U+21975",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𡦧",
+      "codepoint": "U+219A7",
+      "strokes": 16,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𡨸",
+      "codepoint": "U+21A38",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𢆥",
+      "codepoint": "U+221A5",
+      "strokes": 15,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𢚸",
+      "codepoint": "U+226B8",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𣦰",
+      "codepoint": "U+239B0",
+      "strokes": 22,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𣳔",
+      "codepoint": "U+23CD4",
+      "strokes": 8,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𣷭",
+      "codepoint": "U+23DED",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𣼽",
+      "codepoint": "U+23F3D",
+      "strokes": 13,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𤴬",
+      "codepoint": "U+24D2C",
+      "strokes": 7,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𤾓",
+      "codepoint": "U+24F93",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𥪞",
+      "codepoint": "U+25A9E",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𦊚",
+      "codepoint": "U+2629A",
+      "strokes": 10,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𦝄",
+      "codepoint": "U+26744",
+      "strokes": 12,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𦟐",
+      "codepoint": "U+267D0",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𦹳",
+      "codepoint": "U+26E73",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𧡊",
+      "codepoint": "U+2784A",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𨑮",
+      "codepoint": "U+2846E",
+      "strokes": 8,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𨓐",
+      "codepoint": "U+284D0",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𨤔",
+      "codepoint": "U+28914",
+      "strokes": 15,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𨱑",
+      "codepoint": "U+28C51",
+      "strokes": 16,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𫳘",
+      "codepoint": "U+2BCD8",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𬂙",
+      "codepoint": "U+2C099",
+      "strokes": 21,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𱠎",
+      "codepoint": "U+3180E",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𱥺",
+      "codepoint": "U+3197A",
+      "strokes": 7,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𱰺",
+      "codepoint": "U+31C3A",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𱺵",
+      "codepoint": "U+31EB5",
+      "strokes": 8,
+      "block": "ext-b-plus"
+    }
+  ]
+}
