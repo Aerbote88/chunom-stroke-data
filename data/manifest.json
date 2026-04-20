@@ -1,6 +1,6 @@
 {
-  "count": 51,
-  "generated": "2026-04-20T03:29:47.998Z",
+  "count": 58,
+  "generated": "2026-04-20T04:10:06.151Z",
   "entries": [
     {
       "character": "㛪",
@@ -21,9 +21,21 @@
       "block": "bmp"
     },
     {
+      "character": "䏧",
+      "codepoint": "U+43E7",
+      "strokes": 10,
+      "block": "bmp"
+    },
+    {
       "character": "兠",
       "codepoint": "U+5160",
       "strokes": 12,
+      "block": "bmp"
+    },
+    {
+      "character": "唭",
+      "codepoint": "U+552D",
+      "strokes": 11,
       "block": "bmp"
     },
     {
@@ -66,6 +78,12 @@
       "character": "橷",
       "codepoint": "U+6A77",
       "strokes": 16,
+      "block": "bmp"
+    },
+    {
+      "character": "渃",
+      "codepoint": "U+6E03",
+      "strokes": 11,
       "block": "bmp"
     },
     {
@@ -225,8 +243,20 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𦬑",
+      "codepoint": "U+26B11",
+      "strokes": 6,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𦹳",
       "codepoint": "U+26E73",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𧍋",
+      "codepoint": "U+2734B",
       "strokes": 14,
       "block": "ext-b-plus"
     },
@@ -264,6 +294,18 @@
       "character": "𨱑",
       "codepoint": "U+28C51",
       "strokes": 16,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𩄲",
+      "codepoint": "U+29132",
+      "strokes": 18,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𩯀",
+      "codepoint": "U+29BC0",
+      "strokes": 21,
       "block": "ext-b-plus"
     },
     {
