@@ -1,6 +1,6 @@
 {
-  "count": 48,
-  "generated": "2026-04-20T01:09:10.631Z",
+  "count": 51,
+  "generated": "2026-04-20T03:29:47.998Z",
   "entries": [
     {
       "character": "㛪",
@@ -177,6 +177,12 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𣹓",
+      "codepoint": "U+23E53",
+      "strokes": 11,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𣼽",
       "codepoint": "U+23F3D",
       "strokes": 13,
@@ -227,6 +233,12 @@
     {
       "character": "𧡊",
       "codepoint": "U+2784A",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𨁡",
+      "codepoint": "U+28061",
       "strokes": 14,
       "block": "ext-b-plus"
     },
@@ -288,6 +300,12 @@
       "character": "𱺵",
       "codepoint": "U+31EB5",
       "strokes": 8,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "󰞺",
+      "codepoint": "U+F07BA",
+      "strokes": 11,
       "block": "ext-b-plus"
     }
   ]
