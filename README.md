@@ -53,13 +53,13 @@ See `data/manifest.json` for the full list with codepoints and block tags:
 
 ## Provenance
 
-Data was authored using [make-me-a-chunom](https://github.com/Aerbote88/make-me-a-chunom), a Chữ Nôm fork of skishore's [makemeahanzi](https://github.com/skishore/makemeahanzi) editor. Initial character outlines were traced from the AR PL UKai / AR PL KaitiM GB fonts ([Arphic Technology](https://www.freedesktop.org/wiki/Arphic_Public_License/)), then the stroke segmentation, ordering, and animation medians were authored by hand in the editor.
+Data was authored using [make-me-a-chunom](https://github.com/Aerbote88/make-me-a-chunom), a Chữ Nôm fork of skishore's [makemeahanzi](https://github.com/skishore/makemeahanzi) editor. Initial character outlines were traced from [Nôm Na Tống](https://github.com/nomfoundation/font) (the Vietnamese Nôm Preservation Foundation's reference font), falling back to [Plangothic P1](https://github.com/Fitzgerald-Porthmouth-Koenigsegg/Plangothic_Project) for codepoints outside Nôm Na Tống's coverage. Stroke segmentation, drawing order, and animation medians were then authored by hand in the editor.
 
 Only characters **not** present in makemeahanzi's `graphics.txt` are included here — no upstream Han data is republished.
 
 ## License
 
-Stroke path data is released under the [Arphic Public License](LICENSE), matching the license of the font outlines the glyph shapes are ultimately derived from. See [NOTICE.md](NOTICE.md) for the full attribution chain.
+Stroke path data is released under the [MIT License](LICENSE). Upstream font attributions (Nom Na Tong — MIT; Plangothic P1 — SIL OFL 1.1) are recorded in [NOTICE.md](NOTICE.md).
 
 ## Contributing
 
