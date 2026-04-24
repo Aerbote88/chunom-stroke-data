@@ -1,6 +1,6 @@
 {
-  "count": 58,
-  "generated": "2026-04-20T04:10:06.151Z",
+  "count": 71,
+  "generated": "2026-04-24T04:26:03.948Z",
   "entries": [
     {
       "character": "㛪",
@@ -18,6 +18,12 @@
       "character": "䀡",
       "codepoint": "U+4021",
       "strokes": 10,
+      "block": "bmp"
+    },
+    {
+      "character": "䋎",
+      "codepoint": "U+42CE",
+      "strokes": 11,
       "block": "bmp"
     },
     {
@@ -69,9 +75,21 @@
       "block": "bmp"
     },
     {
+      "character": "搊",
+      "codepoint": "U+640A",
+      "strokes": 13,
+      "block": "bmp"
+    },
+    {
       "character": "撝",
       "codepoint": "U+649D",
       "strokes": 15,
+      "block": "bmp"
+    },
+    {
+      "character": "攄",
+      "codepoint": "U+6504",
+      "strokes": 18,
       "block": "bmp"
     },
     {
@@ -135,6 +153,12 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𠾕",
+      "codepoint": "U+20F95",
+      "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𡎝",
       "codepoint": "U+2139D",
       "strokes": 12,
@@ -177,6 +201,24 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𢤞",
+      "codepoint": "U+2291E",
+      "strokes": 18,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𢧚",
+      "codepoint": "U+229DA",
+      "strokes": 12,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𢬣",
+      "codepoint": "U+22B23",
+      "strokes": 10,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𣦰",
       "codepoint": "U+239B0",
       "strokes": 22,
@@ -213,9 +255,21 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𤵖",
+      "codepoint": "U+24D56",
+      "strokes": 9,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𤾓",
       "codepoint": "U+24F93",
       "strokes": 14,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𥢅",
+      "codepoint": "U+25885",
+      "strokes": 16,
       "block": "ext-b-plus"
     },
     {
@@ -267,6 +321,12 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𧺀",
+      "codepoint": "U+27E80",
+      "strokes": 22,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𨁡",
       "codepoint": "U+28061",
       "strokes": 14,
@@ -309,6 +369,18 @@
       "block": "ext-b-plus"
     },
     {
+      "character": "𪉽",
+      "codepoint": "U+2A27D",
+      "strokes": 22,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𪽗",
+      "codepoint": "U+2AF57",
+      "strokes": 12,
+      "block": "ext-b-plus"
+    },
+    {
       "character": "𫳘",
       "codepoint": "U+2BCD8",
       "strokes": 11,
@@ -342,6 +414,12 @@
       "character": "𱺵",
       "codepoint": "U+31EB5",
       "strokes": 8,
+      "block": "ext-b-plus"
+    },
+    {
+      "character": "𲄋",
+      "codepoint": "U+3210B",
+      "strokes": 20,
       "block": "ext-b-plus"
     },
     {
